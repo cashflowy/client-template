@@ -1,0 +1,9 @@
+# ignore everything in temp folder except the readme
+temp/*
+!temp/README.md
+
+node_modules/*
+package-lock.json
+
+*.env.js
+.env
